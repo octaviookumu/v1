@@ -20,6 +20,7 @@ const IconLogo = () => (
           strokeLinejoin="round"
           points="39 0 0 22 0 67 39 90 78 68 78 23"
         />
+        {/* <circle cx="38" cy="45" r="40" stroke="#64ffda" strokeWidth="6" fill="transparent" /> */}
       </g>
     </g>
   </svg>
