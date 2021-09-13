@@ -136,13 +136,19 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
+              {/* Hello! My name is Brittany and I enjoy creating things that live on the internet. My
               interest in web development started back in 2012 when I decided to try editing custom
               Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              about HTML &amp; CSS! */}
+              Hi! Octavian here. Keep it brief? Okay. <br /> I'll give you time to
+              scroll through all the cool stuff below. <br />
+              I enjoy building stuff. Clean, functional stuff; changing the world one div tag at a time. This has led me to different places in my dev journey. From starting off at {' '}<a href="https://andela.com/alc/">Pluralsight & Andela's GADS programme</a>,{' '} to delving into the freelance world and working at a {' '}
+              <a href="https://hokela.co.ke/">marketing firm</a>.{' '}
+              <br />
+              Nowadays I build cool stuff for {' '}<a href="https://mediapal.net/">MediaPal</a>{' '} as we explore the dynamic world of modern-day advertising.
             </p>
 
-            <p>
+            {/* <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
               <a href="https://starry.com/">a start-up</a>,{' '}
@@ -160,7 +166,7 @@ const About = () => {
               </a>{' '}
               that covers everything you need to build a web app with the Spotify API using Node
               &amp; React.
-            </p>
+            </p> */}
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
