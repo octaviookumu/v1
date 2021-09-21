@@ -1,9 +1,9 @@
 ---
 date: '4'
 title: 'Kitty'
-cover: './halcyon.png'
+cover: './kitty.png'
 # github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+external: 'https://brave-brahmagupta-6b26e8.netlify.app/'
 tech:
   - HTML
   - JavaScript

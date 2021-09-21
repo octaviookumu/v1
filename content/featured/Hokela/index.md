@@ -1,9 +1,9 @@
 ---
 date: '2'
 title: 'Hokela Website'
-cover: './halcyon.png'
+cover: './hokela.png'
 # github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+external: 'https://hokela.co.ke/'
 tech:
   - Vue.js
   - Laravel

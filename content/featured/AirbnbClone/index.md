@@ -1,9 +1,9 @@
 ---
 date: '1'
 title: 'Airbnb Clone'
-cover: './halcyon.png'
+cover: './airbnb.png'
 # github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+external: 'https://airbnb-clone-octaviookumu.vercel.app/'
 # cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 tech:
   - Next.js
