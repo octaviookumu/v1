@@ -67,7 +67,7 @@ const Hero = () => {
       <p>
         {/* I’m a software engineer specializing in building (and occasionally designing) exceptional
         digital experiences. Currently, I’m focused on building accessible, human-centered products */}
-        I am a front-end software engineer who loves tech, seeking to perfect my craft in both frontend and backend development as well (wish me luck). <br /> I currently work at {' '}
+        I am a frontend software engineer passionate about innovation, seeking to perfect my craft in both frontend and backend software development. (wish me luck). <br /> I currently work at {' '}
         <a href="https://mediapal.net/" target="_blank" rel="noreferrer">
           MediaPal
         </a>{' '}.

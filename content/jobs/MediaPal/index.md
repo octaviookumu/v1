@@ -1,6 +1,6 @@
 ---
 date: '2021-02-10'
-title: 'Front-End Engineer'
+title: 'FrontEnd Engineer'
 company: 'MediaPal'
 location: 'Nairobi, Kenya'
 range: 'Feb 2021 - Present'
