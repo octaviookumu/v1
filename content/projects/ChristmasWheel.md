@@ -12,4 +12,4 @@ company: 'Hokela'
 showInProjects: true
 ---
 
-A wheel of fortune game with lots of prizes this Christmas.
+Made during the Christmas period of 2020 for a brand activations. Spin the wheel to see what your future holds.
