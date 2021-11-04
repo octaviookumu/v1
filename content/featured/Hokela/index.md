@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'Hokela Website'
 cover: './hokela.png'
 # github: 'https://github.com/bchiang7/halcyon-site'
