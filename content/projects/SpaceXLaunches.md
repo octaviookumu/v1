@@ -9,7 +9,7 @@ tech:
   - Apollo
   - Express
   - SpaceX API
-company: 'Freelance'
+company: 'Side project'
 showInProjects: true
 ---
 
