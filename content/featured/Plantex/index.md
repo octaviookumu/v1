@@ -1,7 +1,7 @@
 ---
 date: '5'
 title: 'Plantex'
-cover: './plantex.png'
+cover: './plant.png'
 # github: 'https://github.com/bchiang7/halcyon-site'
 external: 'https://cocky-booth-d821d4.netlify.app/'
 tech:

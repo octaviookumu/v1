@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'Vue', 'React', 'Node.js' ];
+  const skills = ['JavaScript (ES6+)', 'TypeScript', 'Vue', 'React', 'Angular', 'Node.js'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -140,12 +140,16 @@ const About = () => {
               interest in web development started back in 2012 when I decided to try editing custom
               Tumblr themes — turns out hacking together a custom reblog button taught me a lot
               about HTML &amp; CSS! */}
-              Hi! Octavian here. Keep it brief? Okay. <br /> I'll give you time to
-              scroll through all the cool stuff below. <br />
-              I enjoy building stuff. Clean, functional stuff; changing the world one div tag at a time. This has led me to different places in my dev journey. From starting off at {' '}<a href="https://andela.com/alc/">Pluralsight & Andela's GADS programme</a>,{' '} to delving into the freelance world and working at a {' '}
-              <a href="https://hokela.co.ke/">marketing firm</a>.{' '}
-              <br />
-              Nowadays I build cool stuff for {' '}<a href="https://mediapal.net/">MediaPal</a>{' '} as we explore the dynamic world of modern-day advertising.
+              Hi! Octavian here. Keep it brief? Okay. <br />I enjoy the process of building, I'd say
+              even more than the end goal itself. This has led me to different places in my dev
+              journey. From starting off at{' '}
+              <a href="https://andela.com/alc/">Pluralsight & Andela's GADS programme</a>, to
+              delving into the freelance world then later working at a{' '}
+              <a href="https://hokela.co.ke/">marketing firm</a> and an{' '}
+              <a href="https://mediapal.net/">advertising agency</a>. <br />
+              Nowadays I work at I&M Bank's <a href="https://www.imbankgroup.com/">iCube</a>{' '}
+              department with the goal of enriching the banking experience and empowering customers
+              to make better financial decisions.
             </p>
 
             {/* <p>
@@ -168,7 +172,7 @@ const About = () => {
               &amp; React.
             </p> */}
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are among the technologies I’ve been working with recently:</p>
           </div>
 
           <ul className="skills-list">
