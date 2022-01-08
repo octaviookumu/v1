@@ -1,7 +1,7 @@
 ---
 date: '4'
 title: 'Chatbot Survey'
-cover: './chatbot-survey.png'
+cover: './chatbot.png'
 # github: 'https://github.com/bchiang7/halcyon-site'
 external: 'https://happy-morse-679806.netlify.app/'
 tech:

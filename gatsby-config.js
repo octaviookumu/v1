@@ -3,7 +3,7 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: 'Octavian Okumu',
-    description: 'Octavian Okumu is a front-end software developer.',
+    description: 'Octavian Okumu is a frontend software developer.',
     siteUrl: 'https://octaviookumu.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@octaviookumu',
