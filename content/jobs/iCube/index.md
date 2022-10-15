@@ -7,7 +7,7 @@ range: 'Jan 2022 - Present'
 url: 'https://www.imbankgroup.com/'
 ---
 
-- Develop new user facing features
+- Working with Backbase to upgrade the bank's OTG platform
 - Collaborate with team members, product owners and other stakeholders in translating business needs to actual code
 - Collaborate with Quality Assurance Engineers in testing implementations and writing Automation tests
 - Liaise with the DevOps engineers in creating, implementing and troubleshooting CI/CD pipelines for web applications

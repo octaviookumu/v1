@@ -12,4 +12,3 @@ showInProjects: true
 ---
 
 Being a cat-person, I sought to have fun with this project. A few gifs and animations here and there gave rise to the Kitty website. A visual impression of the cat that tormented me at the time, as they do all of us.
-
