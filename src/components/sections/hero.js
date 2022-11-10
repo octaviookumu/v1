@@ -67,8 +67,8 @@ const Hero = () => {
       <p>
         {/* I’m a software engineer specializing in building (and occasionally designing) exceptional
         digital experiences. Currently, I’m focused on building accessible, human-centered products */}
-        I am passionate about technology and interested in the many limits it can reach... or
-        surpass (fingers crossed). As it is often said, tech is a journey.
+        I like technology and more than that, I like seeing what limits it can reach... or surpass
+        (fingers crossed).
         <br /> I currently work at{' '}
         <a href="https://www.imbankgroup.com/" target="_blank" rel="noreferrer">
           I&M Bank, iCube
