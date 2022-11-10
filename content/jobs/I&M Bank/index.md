@@ -1,7 +1,7 @@
 ---
 date: '2022-01-03' #yy-mm-dd
 title: 'Frontend Engineer'
-company: 'iCube'
+company: 'I&M Bank'
 location: 'Nairobi, Kenya'
 range: 'Jan 2022 - Present'
 url: 'https://www.imbankgroup.com/'
