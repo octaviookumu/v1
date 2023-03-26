@@ -9,4 +9,4 @@ tech:
   - Laravel
 ---
 
-MediaPal's official website.
+MediaPal's official website. Still subject to change as I am not its sole maintainer.

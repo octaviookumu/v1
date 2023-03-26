@@ -67,8 +67,8 @@ const Hero = () => {
       <p>
         {/* I’m a software engineer specializing in building (and occasionally designing) exceptional
         digital experiences. Currently, I’m focused on building accessible, human-centered products */}
-        I like technology and more than that, I like seeing what limits it can reach... or surpass
-        (fingers crossed).
+        I promise I'm not a Marvel comic villain.
+        <br /> I'm primarily working on frontend as I learn a bit of backend.
         <br /> I currently work at{' '}
         <a href="https://www.imbankgroup.com/" target="_blank" rel="noreferrer">
           I&M Bank, iCube
