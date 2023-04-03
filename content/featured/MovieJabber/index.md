@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '3'
 title: 'Otamatsuri Anime Quiz'
 cover: './otamatsuri.png'
 external: 'https://master--incredible-eclair-b301d8.netlify.app'
