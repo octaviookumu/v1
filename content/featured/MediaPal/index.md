@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '1'
 title: 'MediaPal Website'
 cover: './mediapal.png'
 # github: 'https://github.com/bchiang7/halcyon-site'
