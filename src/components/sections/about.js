@@ -126,7 +126,16 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'Vue', 'React', 'Angular', 'Node.js'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'TypeScript',
+    'Angular',
+    'Vue',
+    'React',
+    'Next.js',
+    'Node.js',
+    'Java',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -172,7 +181,7 @@ const About = () => {
               &amp; React.
             </p> */}
 
-            <p>Here are among the technologies I’ve been working with recently:</p>
+            <p>Here are among the technologies I’ve been worked with:</p>
           </div>
 
           <ul className="skills-list">
