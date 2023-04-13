@@ -7,7 +7,7 @@ range: 'Jan 2022 - Present'
 url: 'https://www.imbankgroup.com/'
 ---
 
-- Working with Backbase to upgrade and maintain the bank's payment platforms
+- Maintaining and improving existing bank platforms
 - Collaborate with team members, product owners and other stakeholders in translating business needs to actual code
 - Collaborate with Quality Assurance Engineers in testing implementations and writing Automation tests
 - Liaise with the DevOps engineers in creating, implementing and troubleshooting CI/CD pipelines for web applications
