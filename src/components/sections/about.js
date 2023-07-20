@@ -134,7 +134,6 @@ const About = () => {
     'React',
     'Next.js',
     'Node.js',
-    'Java',
   ];
 
   return (
